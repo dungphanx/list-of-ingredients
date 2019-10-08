@@ -1,8 +1,10 @@
 # README
 
 A Rock Solid, Modern Web Stack—Rails 5 API + ActiveAdmin + Create React App on Heroku
-source: https://blog.heroku.com/a-rock-solid-modern-web-stack
-finale: https://immense-retreat-46658.herokuapp.com/
+
+Source: https://blog.heroku.com/a-rock-solid-modern-web-stack
+
+Finale: https://immense-retreat-46658.herokuapp.com/
 
 Things you may want to cover:
 
