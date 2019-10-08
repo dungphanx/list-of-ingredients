@@ -1,7 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Rock Solid, Modern Web Stack—Rails 5 API + ActiveAdmin + Create React App on Heroku
+source: https://blog.heroku.com/a-rock-solid-modern-web-stack
+finale: https://immense-retreat-46658.herokuapp.com/
 
 Things you may want to cover:
 
